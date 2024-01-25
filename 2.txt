@@ -1,1 +1,3 @@
 Contenido del archivo 2.txt
+Hola aqui tambien
+Adios aqui tambien
